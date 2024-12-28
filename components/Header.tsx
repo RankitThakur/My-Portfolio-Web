@@ -128,8 +128,9 @@ export default function Header() {
             {/* Right side - Resume Button and Social Icons */}
             <div className="flex space-y-4 flex-start">
               <div>
+                {/* /https://drive.google.com/file/d/1cYwHDvVG4ZRAqcS358lvMMbx--fDpGfF/view?usp=sharing */}
                 <Link
-                  href="/https://drive.google.com/file/d/1cYwHDvVG4ZRAqcS358lvMMbx--fDpGfF/view?usp=sharing"
+                  href="#"
                   passHref
                 >
                   <a className="flex items-center space-x-2 rounded-md border-2 border-neonGreen bg-background px-3 py-2 text-sm font-bold sm:space-x-3 sm:px-5 sm:py-2 md:text-lg">
