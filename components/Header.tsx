@@ -41,6 +41,9 @@ const SocialIcons = memo(() => (
   </div>
 ))
 
+// Manually set the displayName for the component
+SocialIcons.displayName = 'SocialIcons';
+
 const NavigationDrawer = ({
   navigationDrawer,
   setNavigationDrawer,
