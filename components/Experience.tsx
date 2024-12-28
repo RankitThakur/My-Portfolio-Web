@@ -15,8 +15,8 @@ const Experience = () => {
                             period="Jun 2022 - Current"
                             description={
                                 <>
-                                    I've been working as Frontend developer at Shriffle Software
-                                    Solutions &nbsp;
+                                    I&apos;ve been working as Frontend developer at Shriffle Software
+                                    Solutions;
                                     <CustomLink href="https://www.shriffle.com/">
                                         View more
                                     </CustomLink>

@@ -29,7 +29,7 @@ const SocialIcons = memo(() => (
   <div className="flex flex-row space-x-4 text-[1.1em] md:text-[1.3rem]">
     {socials.map((social) => (
       <a
-        key={social.name}
+        key={social?.name}
         href={social.url}
         rel="noopener noreferrer"
         className="flex items-center justify-center"
